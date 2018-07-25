@@ -1,10 +1,9 @@
-#Customer Analytics Project 
+CUSTOMER ANALYTICS PROJECT
 
 Project Domain: E-commerce/Logistics
 
 Project details: 
-The project concerns an international e-commerce company* based in the USA who want to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company operates in various
-states of USA, but the customer data is only specific to one state in the USA.The warehouse is located on the eastern part whereas, the state to which shipments are delivered is at the western part of the USA.
+The project concerns an international e-commerce company* based in the USA who want to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers.
 
 Datasets were provided by IMS Proschool Pvt Ltd. for the final term-end project.The train dataset contains 10999 observations of 12 variables, and the test dataset contains 3993 observations of 12 variables. The project is divided into four problem statements. Each of the problem is unique and requires the project participant to utilize various Data Science skills to solve them. 
 
@@ -15,9 +14,8 @@ The problems statements are as follows:
 
 3) Create segmentation of the customers to whom the shipments have not reached on-time. Use only delayed customers data for clustering.
 
-4) Do a Sentiment analysis(Positive or Negative) of their competitors such as: Amazon India, Flipkart, and Snapdeal.
+4) Do a Sentiment analysis(Positive or Negative) of the competitors: Amazon India, Flipkart, and Snapdeal. Use tweets to perform the analysis.
 
-Tools used: RStudio, Git 
 Programming language: R
 
 Project learning: 

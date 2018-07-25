@@ -1,1 +1,31 @@
-# Customeranalysis
+#Customer Analytics Project 
+
+Project Domain: E-commerce/Logistics
+
+Project details: 
+The project concerns an international e-commerce company* based in the USA who want to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company operates in various
+states of USA, but the customer data is only specific to one state in the USA.The warehouse is located on the eastern part whereas, the state to which shipments are delivered is at the western part of the USA.
+
+Datasets were provided by IMS Proschool Pvt Ltd. for the final term-end project.The train dataset contains 10999 observations of 12 variables, and the test dataset contains 3993 observations of 12 variables. The project is divided into four problem statements. Each of the problem is unique and requires the project participant to utilize various Data Science skills to solve them. 
+
+The problems statements are as follows:
+1) Build various classification models like Logistic Regression, Support Vector Machines, Random Forests, and XGBoost/Any boosting techniques to predict if the shipments have reached the customer on-time or not. Identify significant variables that impact the target variable.
+
+2) Use ggplot2 to visually illustrate if the shipments have reached on-time for the customers who have the best customer rating,the best customer score, made recurring orders and high payments.
+
+3) Create segmentation of the customers to whom the shipments have not reached on-time. Use only delayed customers data for clustering.
+
+4) Do a Sentiment analysis(Positive or Negative) of their competitors such as: Amazon India, Flipkart, and Snapdeal.
+
+Tools used: RStudio, Git 
+Programming language: R
+
+Project learning: 
+Researched about what factors affect on-time delivery of shipments. 
+Implemented version control for the project using Git. 
+
+Project Participation: Independent
+
+
+
+*Disclaimer: This is a fictional company, and the project was undertaken to establish the project participant's expertise in topics covered during the final term of the PG Diploma course in Data Science.

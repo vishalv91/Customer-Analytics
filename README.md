@@ -22,7 +22,7 @@ Project learning:
 Researched about what factors affect on-time delivery of shipments. 
 Implemented version control for the project using Git. 
 
-Project Participation: Independent
+Project Participation: Independently worked on the project.
 
 
 

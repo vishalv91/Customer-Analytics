@@ -7,7 +7,7 @@ The project concerns an international e-commerce company* based in the USA who w
 
 Datasets were provided by IMS Proschool Pvt Ltd. for the final term-end project.The train dataset contains 10999 observations of 12 variables, and the test dataset contains 3993 observations of 12 variables. The project is divided into four problem statements. Each of the problem is unique and requires the project participant to utilize various Data Science skills to solve them. 
 
-The problems statements are as follows:
+The problem statements are as follows:
 1) Build various classification models like Logistic Regression, Support Vector Machines, Random Forests, and XGBoost/Any boosting techniques to predict if the shipments have reached the customer on-time or not. Identify significant variables that impact the target variable.
 
 2) Use ggplot2 to visually illustrate if the shipments have reached on-time for the customers who have the best customer rating,the best customer score, made recurring orders and high payments.

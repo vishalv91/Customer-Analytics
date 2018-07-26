@@ -21,7 +21,7 @@ Datasets were provided by IMS Proschool Pvt Ltd. for the final term-end project.
 **Project learning:** 
 - Researched about what factors affected on-time delivery of shipments. 
 - Interviewed delivery personnel to understand what factors delay their delivery.
-- Monitored the movement of goods on my shopping apps.
+- Monitored the movement of orders from my shopping apps.
 - Read articles about important KPIs for e-commerce.
 - Read articles about how data is helping e-commerce businesses.
 

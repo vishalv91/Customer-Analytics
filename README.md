@@ -19,11 +19,11 @@ Datasets were provided by IMS Proschool Pvt Ltd. for the final term-end project.
 **Programming language:** R
 
 **Project learning:** 
-Researched about what factors affected on-time delivery of shipments. 
-Interviewed delivery personal about what factors delay their delivery.
-Monitored the movement of goods on my shopping apps.
-Read interesting news articles about how e-commerce industry works.
-Read about important KPIs in the e-commerce industry.
+- Researched about what factors affected on-time delivery of shipments. 
+- Interviewed delivery personal about what factors delay their delivery.
+- Monitored the movement of goods on my shopping apps.
+- Read articles about important KPIs for e-commerce.
+- Read articles about how data is helping e-commerce businesses.
 
 **Project Participation:** Independently worked on the project.
 
